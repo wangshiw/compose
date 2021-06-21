@@ -13,7 +13,7 @@ ipaddress==1.0.23
 jsonschema==3.2.0
 paramiko==2.7.2
 PySocks==1.7.1
-python-dotenv==0.17.0
+python-dotenv==0.18.0
 pywin32==301; sys_platform == 'win32'
 PyYAML==5.4.1
 requests==2.25.1
